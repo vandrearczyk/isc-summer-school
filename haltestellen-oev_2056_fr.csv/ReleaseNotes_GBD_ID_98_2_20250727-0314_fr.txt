@@ -1,0 +1,43 @@
+﻿Jeu de données: Arrêts des transports publics, ID OGéo 98.2
+
+Conditions d'usage: Utilisation libre avec indication de la source des données: Arrêts des transports publics Office fédéral des transports OFT (O-BY)
+
+Contact: Pour indiquer des erreurs présumées dans les données: gis@bav.admin.ch
+
+Informations ultérieures: Pour la documentation du modèle de données, métadonnées et d'autres liens: voir: https://www.bav.admin.ch/bav/fr/home/themes-generaux/themes-specialises/geoinformation/geodonnees-de-base/arrets-des-transports-publics.html
+
+Sources des données: DiDok-3
+
+Etat: 27.07.2025
+
+Nombre de Points d'exploitation: 28822
+-       Arrêt: 26393
+-       Arrêt et Point de chargement: 826
+-       Point de chargement: 245
+-       Point de raccordement: 70
+-       Évitement: 56
+-       Station de block: 35
+-       Station de service: 85
+-       Limite de propriété: 12
+-       Profil corrigé/Saut kilométrique: 19
+-       Cul-de-Sac (fin de voie): 49
+-       Arrêt hors service: 60
+-       Frontière nationale: 26
+-       Tracés séparés: 12
+-       Diagonale d’échange: 102
+-       Bifurcation: 415
+-       Boucle de retournement: 57
+-       Point d’exploitation affecté: 360
+
+Nombre de Bordures d'arrêt: 54799
+
+Nombre d'objets modifiés envers la version précédente du 20.07.2025:
+
+Bordures d'arrêt:
+-       Ajoutés: 7
+-       Modifiés: 103
+-       Supprimés: 0
+Points d'exploitation:
+-       Ajoutés: 1
+-       Modifiés: 25
+-       Supprimés: 0
